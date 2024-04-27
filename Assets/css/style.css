@@ -86,14 +86,16 @@ p {
     background-color: #2589bd;
 }
 
-.benefit /*Combined classes, maybe change names to one: Benefit*/
+.benefit /*Combined classes to effect */
  {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit h3 {  /* combined lead, brand and cost benifit for <h3>  */
+.benefit h3 /* combined lead-benefit, brand-benefit and cost-benifit for <h3>  */
+{  
     margin-bottom: 10px;
+    margin-top:10px;  /* Added top margin for asthetics*/
     text-align: center;
 }
 
