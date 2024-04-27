@@ -6,21 +6,18 @@
 
 body {
     background-color: #d9dcd6;
+    color:#ffffff
 }
 
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
-    color: #ffffff;
 }
 
 .header h1 {
     display: inline-block;
     font-size: 48px;
-}
-
-.header h1 .seo {
     color: #d9dcd6;
 }
 
@@ -42,7 +39,6 @@ body {
 }
 
 a {
-    color: #ffffff;
     text-decoration: none;
 }
 
@@ -90,7 +86,6 @@ p {
 .benefit /*Combined classes to effect */
  {
     margin-bottom: 32px;
-    color: #ffffff;
 }
 
 .benefit h3 /* combined lead-benefit, brand-benefit and cost-benifit for <h3>  */
@@ -113,7 +108,6 @@ p {
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
-    color: #ffffff;
 }
 
 .online-reputation-management {
@@ -122,7 +116,6 @@ p {
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
-    color: #ffffff;
 }
 
 .social-media-marketing {
@@ -131,7 +124,6 @@ p {
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
-    color: #ffffff;
 }
 
 .search-engine-optimization img {
