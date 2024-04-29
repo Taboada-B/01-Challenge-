@@ -47,6 +47,8 @@ a {
 }
 
 .hero {
+
+    /*main picture*/
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -56,15 +58,16 @@ a {
 }
 
 .content {
+
+    /*creating main content size in percentage*/
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-.content-box
+.content-box {
 
-/*consolidating with one class*/
-    {
+/*consolidating with one class, creating container for main content*/
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -72,48 +75,43 @@ a {
     background-color: #0072bb;
 }
 
-.content-box img
+.content-box img {
 
 /* experimenting with consolidating*/
-    {
     max-height: 200px;
 }
 
-.content-box h2
+.content-box h2 {
 
 /*removed repeating formating*/
-    {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-.float-left
+.float-left {
 
 /*Positioning of pictures in main with correct margins */
-    {
     float: left;
     margin-right: 25px;
 }
 
-.float-right
+.float-right {
 
 /*Positioning of pictures in main with correct margins */
-    {
     float: right;
     margin-left: 25px;
 }
 
-p
+p {
 
 /*Font size for information*/
-    {
     font-size: 16px;
 }
 
-.benefits
+.benefits {
 
 /*formating supporting info on side of the website */
-    {
+    
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -124,17 +122,17 @@ p
     background-color: #2589bd;
 }
 
-.benefit
+.benefit{
 
 /*Combined classes to effect lead generation, brand awareness, cost managment*/
-    {
+    
     margin-bottom: 32px;
 }
 
-.benefit h3 
+.benefit h3 {
 
 /* combined lead-benefit, brand-benefit and cost-benifit for <h3>  */
-    {
+    
     text-align: center;
 }
 
@@ -143,6 +141,7 @@ p
 }
 
 .benefit img {
+    
     /* combined lead, brand and cost benifit for <img>  */
     display: block;
     margin: 10px auto;
