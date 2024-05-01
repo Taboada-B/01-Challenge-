@@ -4,7 +4,7 @@
 <p> This has been a mockup school assignment that has been refactored to be more consise and accessible. </p>
 ![Screenshot](assets/images/screenshot.jpg)
 <h2>Screenshot</h2>
-![Alt text](assets/images/screensho.jpg?raw=true "Title")
+![Alt text](assets/images/screenshot.jpg?raw=true "Title")
 <h2> URL</h2>
 <p> https://taboada-b.github.io/01-Challenge-/ </p> 
 <h2> Author</h2>
